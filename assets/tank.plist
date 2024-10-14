@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tank4-export1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,68},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,68},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,0},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,136},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,136},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,0},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,136},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,68},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+			<key>tank4-export9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{52,67}}</string>
+				<key>sourceSize</key>
+				<string>{52,67}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{159,204}</string>
+			<key>textureFileName</key>
+			<string>tank.png</string>
+			</dict>
+		</dict>
+</plist>
